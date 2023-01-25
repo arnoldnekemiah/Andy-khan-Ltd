@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+This template is for a photography website
 
-Theme Name: Knight
-Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+Theme Name: Dark knight
+Theme URL: coming soon
+Author: IKONDE NEKEMIAH ARNOLD
+Author URL: coming soon
